@@ -23,7 +23,7 @@ Summary:
   Walkthrough:
     
 ![xss2](https://user-images.githubusercontent.com/23129522/47958738-952bac80-dfa7-11e8-897f-ffdc1058ff95.gif)
-  Steps: Add a new image in media. Go to library, then click on image. Then in the title cetion add the javascript right nect to the image name.
+  Steps: Add a new image in media. Go to library, then click on image. Then in the title section add the javascript right nect to the image name.
   
 3. User Authentication
 Summary:
@@ -32,6 +32,7 @@ Summary:
   Tested in version: N/A
   Walkthrough:
   
+![user enum](https://user-images.githubusercontent.com/23129522/47958741-cdcb8600-dfa7-11e8-8ef6-3d3566ca0322.gif)
   Steps: Type in username as admin but enter a wrong password. Type in random name and random password.
   
   ##Notes
