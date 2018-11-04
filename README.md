@@ -13,7 +13,7 @@ Summary:
   Tested in version: 4.2.3
   Walkthrough:
     ![xss1](https://user-images.githubusercontent.com/23129522/47958720-63b2e100-dfa7-11e8-8e74-df6262d55dae.gif)
-   Steps: make a new post, write the javascript, then view the post.
+   Steps: make a new post, write the javascript,publish,then view the post.
 
 2.Authenticated Stored Cross Site Scripting via Image frame
 Summary:
@@ -23,7 +23,7 @@ Summary:
   Walkthrough:
     
 ![xss2](https://user-images.githubusercontent.com/23129522/47958738-952bac80-dfa7-11e8-897f-ffdc1058ff95.gif)
-  Steps: Add a new image in media. Go to library, then click on image. Then in the title section add the javascript right nect to the image name.
+  Steps: Add a new image in media. Go to library, then click on image. Then in the title section add the javascript right next to the image name.
   
 3. User Authentication
 Summary:
