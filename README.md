@@ -38,7 +38,17 @@ Summary:
   ##Notes
   Some downloads took a while and kept crashing.
   
-  
+  ## Assets
+
+List any additional assets, such as scripts or files
+
+## Resources
+
+- [WordPress Source Browser](https://core.trac.wordpress.org/browser/)
+- [WordPress Developer Reference](https://developer.wordpress.org/reference/)
+
+GIFs created with [LiceCap](http://www.cockos.com/licecap/).
+
   ## License
 
     Copyright [yyyy] [name of copyright owner]
