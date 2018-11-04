@@ -12,7 +12,7 @@ Summary:
   Fixed in version: 4.2
   Tested in version: 4.2.3
   Walkthrough:
-    
+    ![xss1](https://user-images.githubusercontent.com/23129522/47958720-63b2e100-dfa7-11e8-8e74-df6262d55dae.gif)
    Steps: make a new post, write the javascript, then view the post.
 
 2.Authenticated Stored Cross Site Scripting via Image frame
